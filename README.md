@@ -19,8 +19,8 @@
 
 
 ## 📊 Estatísticas
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferinoSZ&show_icons=true&theme=midnight-purple)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferinoSZ&layout=compact&theme=midnight-purple)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferinoSZ&show_icons=true&theme=prussian)  
+
 
 ---
 
@@ -31,5 +31,6 @@
 - 📱 Telefone: (47) 9 9773-6522  
 
 ---
+
 
 ✨ *Sempre aprendendo e construindo projetos para evoluir como desenvolvedor.*
