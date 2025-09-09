@@ -27,8 +27,7 @@
 ## 📫 Como me encontrar
 - 🌎 [LinkedIn](https://www.linkedin.com/in/wesley-ferino-190a83309)  
 - 💻 [GitHub](https://github.com/ferinoSZ)  
-- 📧 Email: weslleycontas09@gmail.com  
-- 📱 Telefone: (47) 9 9773-6522  
+- 📧 Email: weslleycontas09@gmail.com   
 
 ---
 
