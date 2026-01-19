@@ -17,11 +17,8 @@
 
 
 ## 📊 Estatísticas
- <img 
-    alt="GitHub Stats" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=ferinoSZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
-  />
+![GitHub Metrics](./metrics.svg)
+
 
 
 ---
