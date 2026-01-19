@@ -17,7 +17,7 @@
 
 
 ## 📊 Estatísticas
-![GitHub Metrics](./metrics.svg)
+![GitHub Metrics](./github-metrics.svg)
 
 
 
